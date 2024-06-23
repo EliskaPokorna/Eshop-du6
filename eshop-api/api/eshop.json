@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Smart Fitness Náramek Pro+",
+      "description": "Voděodolný fitness náramek s dotykovým OLED displejem, sledováním srdečního tepu, krokoměrem a monitorováním spánku.",
+      "price": 1590,
+      "image": "https://media.f-mobil.cz/produkty/76985/fitness-naramek-aligator-smart-ip67-aplikace-v-cestine-cerny-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Eco-Friendly Bambusové Bezdrátové Nabíječky",
+      "description": "Stylové a ekologické bezdrátové nabíječky vyrobené z udržitelně získávaného bambusu, kompatibilní s všemi zařízeními podporujícími Qi.",
+      "price": 890,
+      "image": "https://cdn.myshoptet.com/usr/www.velkykosik.cz/user/shop/big/5188_bezdratova-nabijecka-bamboo.jpg?64cd8d6f"
+    },
+    {
+      "id": 3,
+      "name": "LED Inteligentní Žárovky HomeLight",
+      "description": "Energeticky úsporné LED žárovky s možností ovládání barvy a intenzity světla přes mobilní aplikaci nebo hlasové asistenty.",
+      "price": 499,
+      "image": "https://www.bestdarky.cz/images_cache/w800h800/6/8/6/caeef156bbb3930d5dbfcdb674e6d134.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Profesionální Herní Myš",
+      "description": "Vysoce přesná herní myš s nastavitelným DPI, programovatelnými tlačítky a ergonomickým designem pro dlouhé herní sezení.",
+      "price": 1299,
+      "image": "https://www.suntech.cz/herni-mys-c-tech-tychon-gm-03p-casual-gaming-herni-7-barev-podsviceni-3200dpi-usb_ien550773.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Přenosný Bluetooth Reproduktor",
+      "description": "Kompaktní, ale výkonný přenosný reproduktor s vynikající kvalitou zvuku, dlouhou výdrží baterie a voděodolnou konstrukcí.",
+      "price": 2199,
+      "image": "https://a.allegroimg.com/original/118207/3e6b962e4bfaaf9c8d9f4c7ea68d/30W-PRENOSNY-BEZDRATOVY-REPRODUKTOR-BLUETOOTH-5-3-IPX7"
+    }
+]
+  

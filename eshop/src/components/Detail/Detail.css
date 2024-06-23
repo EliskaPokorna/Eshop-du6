@@ -1,0 +1,23 @@
+.detail-container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.detail-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.detail-container h2 {
+    font-size: 2em;
+    margin: 0.5em 0;
+}
+
+.detail-container p {
+    font-size: 1em;
+    color: #333;
+}
